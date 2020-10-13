@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "284056228932",
+    "firebase_url": "https://capp-adfc3.firebaseio.com",
+    "project_id": "capp-adfc3",
+    "storage_bucket": "capp-adfc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284056228932:android:89905ffcad3dccdb33d811",
+        "android_client_info": {
+          "package_name": "ajn.capp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284056228932-ceglmfbubub63ve476860ukbmvr1hntm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ajn.capp",
+            "certificate_hash": "9998d1937dd47457d8c001bcb7b867ca69944bbc"
+          }
+        },
+        {
+          "client_id": "284056228932-lhq39jskl0hnmsvkj5i1r9ou3rknh18c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbL3-OF00l3OLLpy2z9M8tzf6V6AIbhcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284056228932-lhq39jskl0hnmsvkj5i1r9ou3rknh18c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
